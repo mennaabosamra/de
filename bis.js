@@ -11,10 +11,7 @@ let error=document.getElementById('error')
  let details=[];
 
 
- btn.addEventListener('click' , function(){
-  data()
-  
-})
+ 
 
 
   function data(){
@@ -29,7 +26,7 @@ let error=document.getElementById('error')
    // empty()
   
   }
-   
+  data()
  
 
   /*function empty(){
